@@ -1,7 +1,7 @@
 Maximizing Earning Potential
 ================
 Zoe Buck and Samantha Remotigue
-2022-05-04
+2022-05-20
 
 ## Introduction
 
@@ -44,6 +44,8 @@ dataset are shown below:
 ## <span style="text-decoration:underline"> Visualizations </span>
 
 ### Univariate summary
+
+    ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
 ![](Project-Draft_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
